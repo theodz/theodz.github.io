@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Theo's Three Ts
+tagline: Tips, Thoughts, Tutorials
+email: theodz@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Tips, Thoughts and Tutorials assembled to save you time on development and
+  configuration.
+baseurl: # the subpath of your site, e.g. /blog
+url: "http://theodz.github.io" # the base hostname & protocol for your site
+twitter_username: TheoDzierzbicki
+github_username:  theodz
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Third-party services
+# just leave someone empty to disable it
+# google_analytics: 
+disqus_shortname:
+
+# used this for post_excerpt at index_page
+excerpt_separator: <!--description-->
