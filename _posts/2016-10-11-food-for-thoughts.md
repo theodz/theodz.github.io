@@ -9,7 +9,10 @@ Sometimes you come across stuff while browsing that make you ponder. You don't h
 So here comes my personal link collection for (possible) future use. I don't expect it to be of use to anyone else, but if you want to you can have a look anyway!
 
 ### Languages
-* [https://jekyllrb.com/docs/templates/]()
-* [https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/]()
-* [https://github.com/ashleygwilliams/rust-emergency-compliment]()
-* [https://github.com/rust-unofficial/patterns]()
+* <https://jekyllrb.com/docs/templates/>
+* <https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/>
+* <https://github.com/ashleygwilliams/rust-emergency-compliment>
+* <https://github.com/rust-unofficial/patterns>
+
+### Git
+* <http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html>
